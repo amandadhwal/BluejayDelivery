@@ -1,0 +1,1945 @@
+C:\Users\amand\.jdks\openjdk-21.0.1\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2023.3.2\lib\idea_rt.jar=57641:C:\Program Files\JetBrains\IntelliJ IDEA 2023.3.2\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\amand\IdeaProjects\intrn\out\production\intrn EmployeeAnalyzer
+WFS000065 (Active) has worked for 7 consecutive days.
+WFS000065 (Active) has worked for 7 consecutive days.
+WFS000065 (Active) has worked for 7 consecutive days.
+WFS000065 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000065 (Active) has worked for 7 consecutive days.
+WFS000065 (Active) has worked for 7 consecutive days.
+WFS000065 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000065 (Active) has worked for 7 consecutive days.
+WFS000065 (Active) has worked for 7 consecutive days.
+WFS000065 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000065 (Active) has worked for 7 consecutive days.
+WFS000065 (Active) has worked for 7 consecutive days.
+WFS000065 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000065 (Active) has worked for 7 consecutive days.
+WFS000065 (Active) has worked for 7 consecutive days.
+WFS000065 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000065 (Active) has worked for 7 consecutive days.
+WFS000065 (Active) has worked for 7 consecutive days.
+WFS000065 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000065 (Active) has worked for 7 consecutive days.
+WFS000065 (Active) has worked for 7 consecutive days.
+WFS000065 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000065 (Active) has worked for 7 consecutive days.
+WFS000065 (Active) has worked for 7 consecutive days.
+WFS000065 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000065 (Active) has worked for 7 consecutive days.
+WFS000065 (Active) has worked for 7 consecutive days.
+WFS000065 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000101 (Active) has worked for 7 consecutive days.
+WFS000101 (Active) has worked for 7 consecutive days.
+WFS000101 (Active) has worked for 7 consecutive days.
+WFS000101 (Active) has worked for 7 consecutive days.
+WFS000101 (Active) has worked for 7 consecutive days.
+WFS000101 (Active) has worked for 7 consecutive days.
+WFS000101 (Active) has worked for 7 consecutive days.
+WFS000101 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000101 (Active) has worked for 7 consecutive days.
+WFS000101 (Active) has worked for 7 consecutive days.
+WFS000101 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000101 (Active) has worked for 7 consecutive days.
+WFS000101 (Active) has worked for 7 consecutive days.
+WFS000101 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000101 (Active) has worked for 7 consecutive days.
+WFS000101 (Active) has worked for 7 consecutive days.
+WFS000101 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000101 (Active) has worked for 7 consecutive days.
+WFS000101 (Active) has worked for 7 consecutive days.
+WFS000101 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000101 (Active) has worked for 7 consecutive days.
+WFS000101 (Active) has worked for 7 consecutive days.
+WFS000101 (Active) has worked for 7 consecutive days.
+WFS000101 (Active) has worked for 7 consecutive days.
+WFS000101 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000101 (Active) has worked for 7 consecutive days.
+WFS000127 (Active) has worked for 7 consecutive days.
+WFS000127 (Active) has worked for 7 consecutive days.
+WFS000127 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000127 (Active) has worked for 7 consecutive days.
+WFS000127 (Active) has worked for 7 consecutive days.
+WFS000127 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000127 (Active) has worked for 7 consecutive days.
+WFS000127 (Active) has worked for 7 consecutive days.
+WFS000127 (Active) has worked for 7 consecutive days.
+WFS000127 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000127 (Active) has worked for 7 consecutive days.
+WFS000127 (Active) has worked for 7 consecutive days.
+WFS000127 (Active) has worked for 7 consecutive days.
+WFS000127 (Active) has worked for 7 consecutive days.
+WFS000153 (Active) has worked for 7 consecutive days.
+WFS000153 (Active) has worked for 7 consecutive days.
+WFS000153 (Active) has worked for 7 consecutive days.
+WFS000153 (Active) has worked for 7 consecutive days.
+WFS000153 (Active) has worked for 7 consecutive days.
+WFS000153 (Active) has worked for 7 consecutive days.
+WFS000153 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000153 (Active) has worked for 7 consecutive days.
+WFS000153 (Active) has worked for 7 consecutive days.
+WFS000153 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000153 (Active) has worked for 7 consecutive days.
+WFS000153 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000153 (Active) has worked for 7 consecutive days.
+WFS000153 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000153 (Active) has worked for 7 consecutive days.
+WFS000153 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000153 (Active) has worked for 7 consecutive days.
+WFS000153 (Active) has worked for 7 consecutive days.
+WFS000153 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000153 (Active) has worked for 7 consecutive days.
+WFS000153 (Active) has worked for 7 consecutive days.
+WFS000153 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000153 (Active) has worked for 7 consecutive days.
+WFS000153 (Active) has worked for 7 consecutive days.
+WFS000170 (Active) has worked for 7 consecutive days.
+WFS000170 (Active) has worked for 7 consecutive days.
+WFS000170 (Active) has worked for 7 consecutive days.
+WFS000170 (Active) has worked for 7 consecutive days.
+WFS000170 (Active) has worked for 7 consecutive days.
+WFS000170 (Active) has worked for 7 consecutive days.
+WFS000170 (Active) has worked for 7 consecutive days.
+WFS000170 (Active) has worked for 7 consecutive days.
+WFS000170 (Active) has worked for 7 consecutive days.
+WFS000170 (Active) has worked for more than 14 hours in a single shift.
+WFS000170 (Active) has worked for 7 consecutive days.
+WFS000170 (Active) has worked for 7 consecutive days.
+WFS000170 (Active) has worked for more than 14 hours in a single shift.
+WFS000170 (Active) has worked for 7 consecutive days.
+WFS000170 (Active) has worked for 7 consecutive days.
+WFS000170 (Active) has worked for more than 14 hours in a single shift.
+WFS000170 (Active) has worked for 7 consecutive days.
+WFS000170 (Active) has worked for 7 consecutive days.
+WFS000170 (Active) has worked for more than 14 hours in a single shift.
+WFS000170 (Active) has worked for 7 consecutive days.
+WFS000170 (Active) has worked for 7 consecutive days.
+WFS000170 (Active) has worked for 7 consecutive days.
+WFS000180 (Active) has worked for 7 consecutive days.
+WFS000180 (Active) has worked for 7 consecutive days.
+WFS000180 (Active) has worked for 7 consecutive days.
+WFS000180 (Active) has worked for 7 consecutive days.
+WFS000180 (Active) has worked for 7 consecutive days.
+WFS000180 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000180 (Active) has worked for 7 consecutive days.
+WFS000180 (Active) has worked for 7 consecutive days.
+WFS000180 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000180 (Active) has worked for 7 consecutive days.
+WFS000180 (Active) has worked for 7 consecutive days.
+WFS000180 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000180 (Active) has worked for 7 consecutive days.
+WFS000180 (Active) has worked for 7 consecutive days.
+WFS000180 (Active) has worked for 7 consecutive days.
+WFS000181 (Active) has worked for 7 consecutive days.
+WFS000181 (Active) has worked for 7 consecutive days.
+WFS000181 (Active) has worked for 7 consecutive days.
+WFS000181 (Active) has worked for 7 consecutive days.
+WFS000181 (Active) has worked for 7 consecutive days.
+WFS000181 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000181 (Active) has worked for 7 consecutive days.
+WFS000181 (Active) has worked for 7 consecutive days.
+WFS000181 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000181 (Active) has worked for 7 consecutive days.
+WFS000181 (Active) has worked for 7 consecutive days.
+WFS000181 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000181 (Active) has worked for 7 consecutive days.
+WFS000181 (Active) has worked for 7 consecutive days.
+WFS000181 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000181 (Active) has worked for 7 consecutive days.
+WFS000181 (Active) has worked for 7 consecutive days.
+WFS000181 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000181 (Active) has worked for 7 consecutive days.
+WFS000181 (Active) has worked for 7 consecutive days.
+WFS000181 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000181 (Active) has worked for 7 consecutive days.
+WFS000181 (Active) has worked for 7 consecutive days.
+WFS000181 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000181 (Active) has worked for 7 consecutive days.
+WFS000183 (Active) has worked for 7 consecutive days.
+WFS000183 (Active) has worked for 7 consecutive days.
+WFS000183 (Active) has worked for 7 consecutive days.
+WFS000183 (Active) has worked for 7 consecutive days.
+WFS000183 (Active) has worked for 7 consecutive days.
+WFS000183 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000183 (Active) has worked for 7 consecutive days.
+WFS000183 (Active) has worked for 7 consecutive days.
+WFS000183 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000183 (Active) has worked for 7 consecutive days.
+WFS000183 (Active) has worked for 7 consecutive days.
+WFS000183 (Active) has worked for 7 consecutive days.
+WFS000183 (Active) has worked for 7 consecutive days.
+WFS000183 (Active) has worked for 7 consecutive days.
+WFS000183 (Active) has worked for more than 14 hours in a single shift.
+WFS000183 (Active) has worked for 7 consecutive days.
+WFS000183 (Active) has worked for 7 consecutive days.
+WFS000183 (Active) has worked for more than 14 hours in a single shift.
+WFS000183 (Active) has worked for 7 consecutive days.
+WFS000183 (Active) has worked for 7 consecutive days.
+WFS000183 (Active) has worked for more than 14 hours in a single shift.
+WFS000183 (Active) has worked for 7 consecutive days.
+WFS000183 (Active) has worked for 7 consecutive days.
+WFS000183 (Active) has worked for more than 14 hours in a single shift.
+WFS000183 (Active) has worked for 7 consecutive days.
+WFS000185 (Active) has worked for 7 consecutive days.
+WFS000185 (Active) has worked for 7 consecutive days.
+WFS000185 (Active) has worked for 7 consecutive days.
+WFS000185 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000185 (Active) has worked for 7 consecutive days.
+WFS000185 (Active) has worked for 7 consecutive days.
+WFS000185 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000185 (Active) has worked for 7 consecutive days.
+WFS000185 (Active) has worked for 7 consecutive days.
+WFS000185 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000185 (Active) has worked for 7 consecutive days.
+WFS000185 (Active) has worked for 7 consecutive days.
+WFS000185 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000185 (Active) has worked for 7 consecutive days.
+WFS000185 (Active) has worked for 7 consecutive days.
+WFS000185 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000185 (Active) has worked for 7 consecutive days.
+WFS000185 (Active) has worked for 7 consecutive days.
+WFS000185 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000185 (Active) has worked for 7 consecutive days.
+WFS000185 (Active) has worked for 7 consecutive days.
+WFS000185 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000185 (Active) has worked for 7 consecutive days.
+WFS000185 (Active) has worked for 7 consecutive days.
+WFS000185 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000185 (Active) has worked for 7 consecutive days.
+WFS000185 (Active) has worked for 7 consecutive days.
+WFS000185 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000200 (Active) has worked for 7 consecutive days.
+WFS000200 (Active) has worked for 7 consecutive days.
+WFS000200 (Active) has worked for 7 consecutive days.
+WFS000200 (Active) has worked for 7 consecutive days.
+WFS000200 (Active) has worked for 7 consecutive days.
+WFS000200 (Active) has worked for 7 consecutive days.
+WFS000200 (Active) has worked for 7 consecutive days.
+WFS000200 (Active) has worked for 7 consecutive days.
+WFS000200 (Active) has worked for 7 consecutive days.
+WFS000200 (Active) has worked for 7 consecutive days.
+WFS000200 (Active) has worked for 7 consecutive days.
+WFS000200 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000200 (Active) has worked for 7 consecutive days.
+WFS000200 (Active) has worked for 7 consecutive days.
+WFS000200 (Active) has worked for 7 consecutive days.
+WFS000200 (Active) has worked for 7 consecutive days.
+WFS000200 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000200 (Active) has worked for 7 consecutive days.
+WFS000200 (Active) has worked for more than 14 hours in a single shift.
+WFS000200 (Active) has worked for 7 consecutive days.
+WFS000200 (Active) has worked for 7 consecutive days.
+WFS000200 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000200 (Active) has worked for 7 consecutive days.
+WFS000200 (Active) has worked for more than 14 hours in a single shift.
+WFS000200 (Active) has worked for 7 consecutive days.
+WFS000200 (Active) has worked for 7 consecutive days.
+WFS000200 (Active) has worked for 7 consecutive days.
+WFS000226 (Active) has worked for 7 consecutive days.
+WFS000226 (Active) has worked for 7 consecutive days.
+WFS000226 (Active) has worked for 7 consecutive days.
+WFS000226 (Active) has worked for 7 consecutive days.
+WFS000226 (Active) has worked for 7 consecutive days.
+WFS000226 (Active) has worked for 7 consecutive days.
+WFS000226 (Active) has worked for 7 consecutive days.
+WFS000226 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000226 (Active) has worked for 7 consecutive days.
+WFS000226 (Active) has worked for 7 consecutive days.
+WFS000226 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000226 (Active) has worked for 7 consecutive days.
+WFS000226 (Active) has worked for 7 consecutive days.
+WFS000226 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000226 (Active) has worked for 7 consecutive days.
+WFS000226 (Active) has worked for 7 consecutive days.
+WFS000226 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000226 (Active) has worked for 7 consecutive days.
+WFS000226 (Active) has worked for 7 consecutive days.
+WFS000226 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000226 (Active) has worked for 7 consecutive days.
+WFS000226 (Active) has worked for 7 consecutive days.
+WFS000226 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000226 (Active) has worked for 7 consecutive days.
+WFS000226 (Active) has worked for 7 consecutive days.
+WFS000226 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000226 (Active) has worked for 7 consecutive days.
+WFS000228 (Active) has worked for 7 consecutive days.
+WFS000228 (Active) has worked for 7 consecutive days.
+WFS000228 (Active) has worked for 7 consecutive days.
+WFS000228 (Active) has worked for 7 consecutive days.
+WFS000228 (Active) has worked for 7 consecutive days.
+WFS000228 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000228 (Active) has worked for 7 consecutive days.
+WFS000228 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000228 (Active) has worked for 7 consecutive days.
+WFS000228 (Active) has worked for 7 consecutive days.
+WFS000228 (Active) has worked for 7 consecutive days.
+WFS000228 (Active) has worked for 7 consecutive days.
+WFS000228 (Active) has worked for 7 consecutive days.
+WFS000228 (Active) has worked for 7 consecutive days.
+WFS000228 (Active) has worked for more than 14 hours in a single shift.
+WFS000228 (Active) has worked for 7 consecutive days.
+WFS000246 (Active) has worked for 7 consecutive days.
+WFS000246 (Active) has worked for 7 consecutive days.
+WFS000246 (Active) has worked for 7 consecutive days.
+WFS000246 (Active) has worked for 7 consecutive days.
+WFS000246 (Active) has worked for 7 consecutive days.
+WFS000246 (Active) has worked for 7 consecutive days.
+WFS000246 (Active) has worked for 7 consecutive days.
+WFS000246 (Active) has worked for 7 consecutive days.
+WFS000246 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000246 (Active) has worked for 7 consecutive days.
+WFS000246 (Active) has worked for 7 consecutive days.
+WFS000246 (Active) has worked for 7 consecutive days.
+WFS000246 (Active) has worked for 7 consecutive days.
+WFS000246 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000246 (Active) has worked for 7 consecutive days.
+WFS000246 (Active) has worked for 7 consecutive days.
+WFS000246 (Active) has worked for 7 consecutive days.
+WFS000246 (Active) has worked for 7 consecutive days.
+WFS000246 (Active) has worked for 7 consecutive days.
+WFS000268 (Active) has worked for 7 consecutive days.
+WFS000268 (Active) has worked for 7 consecutive days.
+WFS000268 (Active) has worked for 7 consecutive days.
+WFS000268 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000268 (Active) has worked for 7 consecutive days.
+WFS000268 (Active) has worked for 7 consecutive days.
+WFS000268 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000268 (Active) has worked for 7 consecutive days.
+WFS000268 (Active) has worked for 7 consecutive days.
+WFS000268 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000268 (Active) has worked for 7 consecutive days.
+WFS000268 (Active) has worked for 7 consecutive days.
+WFS000268 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000268 (Active) has worked for 7 consecutive days.
+WFS000268 (Active) has worked for 7 consecutive days.
+WFS000268 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000268 (Active) has worked for 7 consecutive days.
+WFS000268 (Active) has worked for 7 consecutive days.
+WFS000268 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000268 (Active) has worked for 7 consecutive days.
+WFS000268 (Active) has worked for 7 consecutive days.
+WFS000268 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000268 (Active) has worked for 7 consecutive days.
+WFS000268 (Active) has worked for 7 consecutive days.
+WFS000268 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000306 (Active) has worked for 7 consecutive days.
+WFS000306 (Active) has worked for 7 consecutive days.
+WFS000306 (Active) has worked for 7 consecutive days.
+WFS000306 (Active) has worked for 7 consecutive days.
+WFS000306 (Active) has worked for 7 consecutive days.
+WFS000306 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000306 (Active) has worked for 7 consecutive days.
+WFS000306 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000306 (Active) has worked for 7 consecutive days.
+WFS000306 (Active) has worked for 7 consecutive days.
+WFS000306 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000306 (Active) has worked for 7 consecutive days.
+WFS000306 (Active) has worked for 7 consecutive days.
+WFS000306 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000306 (Active) has worked for 7 consecutive days.
+WFS000306 (Active) has worked for 7 consecutive days.
+WFS000306 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000306 (Active) has worked for 7 consecutive days.
+WFS000318 (Active) has worked for 7 consecutive days.
+WFS000318 (Active) has worked for 7 consecutive days.
+WFS000318 (Active) has worked for 7 consecutive days.
+WFS000318 (Active) has worked for 7 consecutive days.
+WFS000318 (Active) has worked for 7 consecutive days.
+WFS000318 (Active) has worked for 7 consecutive days.
+WFS000318 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000318 (Active) has worked for 7 consecutive days.
+WFS000318 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000318 (Active) has worked for 7 consecutive days.
+WFS000318 (Active) has worked for 7 consecutive days.
+WFS000318 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000318 (Active) has worked for 7 consecutive days.
+WFS000318 (Active) has worked for 7 consecutive days.
+WFS000318 (Active) has worked for 7 consecutive days.
+WFS000318 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000318 (Active) has worked for 7 consecutive days.
+WFS000318 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000318 (Active) has worked for 7 consecutive days.
+WFS000318 (Active) has worked for 7 consecutive days.
+WFS000318 (Active) has worked for 7 consecutive days.
+WFS000318 (Active) has worked for 7 consecutive days.
+WFS000318 (Active) has worked for 7 consecutive days.
+WFS000318 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000336 (Active) has worked for 7 consecutive days.
+WFS000336 (Active) has worked for 7 consecutive days.
+WFS000336 (Active) has worked for 7 consecutive days.
+WFS000336 (Active) has worked for 7 consecutive days.
+WFS000336 (Active) has worked for 7 consecutive days.
+WFS000336 (Active) has worked for 7 consecutive days.
+WFS000336 (Active) has worked for 7 consecutive days.
+WFS000336 (Active) has worked for more than 14 hours in a single shift.
+WFS000336 (Active) has worked for 7 consecutive days.
+WFS000336 (Active) has worked for 7 consecutive days.
+WFS000336 (Active) has worked for 7 consecutive days.
+WFS000336 (Active) has worked for more than 14 hours in a single shift.
+WFS000336 (Active) has worked for 7 consecutive days.
+WFS000336 (Active) has worked for 7 consecutive days.
+WFS000336 (Active) has worked for 7 consecutive days.
+WFS000336 (Active) has worked for 7 consecutive days.
+WFS000345 (Active) has worked for 7 consecutive days.
+WFS000345 (Active) has worked for 7 consecutive days.
+WFS000345 (Active) has worked for 7 consecutive days.
+WFS000345 (Active) has worked for 7 consecutive days.
+WFS000345 (Active) has worked for 7 consecutive days.
+WFS000345 (Active) has worked for 7 consecutive days.
+WFS000345 (Active) has worked for 7 consecutive days.
+WFS000345 (Active) has worked for 7 consecutive days.
+WFS000345 (Active) has worked for 7 consecutive days.
+WFS000345 (Active) has worked for 7 consecutive days.
+WFS000345 (Active) has worked for 7 consecutive days.
+WFS000345 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000345 (Active) has worked for 7 consecutive days.
+WFS000345 (Active) has worked for 7 consecutive days.
+WFS000345 (Active) has worked for 7 consecutive days.
+WFS000345 (Active) has worked for 7 consecutive days.
+WFS000345 (Active) has worked for 7 consecutive days.
+WFS000345 (Active) has worked for 7 consecutive days.
+WFS000345 (Active) has worked for 7 consecutive days.
+WFS000345 (Active) has worked for 7 consecutive days.
+WFS000345 (Active) has worked for 7 consecutive days.
+WFS000345 (Active) has worked for 7 consecutive days.
+WFS000360 (Active) has worked for 7 consecutive days.
+WFS000360 (Active) has worked for 7 consecutive days.
+WFS000360 (Active) has worked for 7 consecutive days.
+WFS000360 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000360 (Active) has worked for 7 consecutive days.
+WFS000360 (Active) has worked for 7 consecutive days.
+WFS000360 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000360 (Active) has worked for 7 consecutive days.
+WFS000360 (Active) has worked for 7 consecutive days.
+WFS000360 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000360 (Active) has worked for 7 consecutive days.
+WFS000360 (Active) has worked for 7 consecutive days.
+WFS000360 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000360 (Active) has worked for 7 consecutive days.
+WFS000360 (Active) has worked for 7 consecutive days.
+WFS000360 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000360 (Active) has worked for 7 consecutive days.
+WFS000360 (Active) has worked for 7 consecutive days.
+WFS000360 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000360 (Active) has worked for 7 consecutive days.
+WFS000360 (Active) has worked for 7 consecutive days.
+WFS000360 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000360 (Active) has worked for 7 consecutive days.
+WFS000360 (Active) has worked for 7 consecutive days.
+WFS000360 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000360 (Active) has worked for 7 consecutive days.
+WFS000360 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000360 (Active) has worked for 7 consecutive days.
+WFS000362 (Active) has worked for 7 consecutive days.
+WFS000362 (Active) has worked for 7 consecutive days.
+WFS000362 (Active) has worked for 7 consecutive days.
+WFS000362 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000362 (Active) has worked for 7 consecutive days.
+WFS000362 (Active) has worked for 7 consecutive days.
+WFS000362 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000362 (Active) has worked for 7 consecutive days.
+WFS000362 (Active) has worked for 7 consecutive days.
+WFS000362 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000362 (Active) has worked for 7 consecutive days.
+WFS000362 (Active) has worked for 7 consecutive days.
+WFS000362 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000362 (Active) has worked for 7 consecutive days.
+WFS000362 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000362 (Active) has worked for 7 consecutive days.
+WFS000362 (Active) has worked for 7 consecutive days.
+WFS000362 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000362 (Active) has worked for 7 consecutive days.
+WFS000362 (Active) has worked for 7 consecutive days.
+WFS000362 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000362 (Active) has worked for 7 consecutive days.
+WFS000362 (Active) has worked for 7 consecutive days.
+WFS000362 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000362 (Active) has worked for 7 consecutive days.
+WFS000362 (Active) has worked for 7 consecutive days.
+WFS000362 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000364 (Active) has worked for 7 consecutive days.
+WFS000364 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000364 (Active) has worked for 7 consecutive days.
+WFS000364 (Active) has worked for 7 consecutive days.
+WFS000364 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000364 (Active) has worked for 7 consecutive days.
+WFS000364 (Active) has worked for 7 consecutive days.
+WFS000364 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000364 (Active) has worked for 7 consecutive days.
+WFS000364 (Active) has worked for 7 consecutive days.
+WFS000364 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000364 (Active) has worked for 7 consecutive days.
+WFS000364 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000364 (Active) has worked for 7 consecutive days.
+WFS000364 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000364 (Active) has worked for 7 consecutive days.
+WFS000364 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000364 (Active) has worked for 7 consecutive days.
+WFS000364 (Active) has worked for 7 consecutive days.
+WFS000364 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000364 (Active) has worked for 7 consecutive days.
+WFS000364 (Active) has worked for 7 consecutive days.
+WFS000364 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000364 (Active) has worked for 7 consecutive days.
+WFS000368 (Active) has worked for 7 consecutive days.
+WFS000368 (Active) has worked for 7 consecutive days.
+WFS000368 (Active) has worked for 7 consecutive days.
+WFS000368 (Active) has worked for 7 consecutive days.
+WFS000368 (Active) has worked for 7 consecutive days.
+WFS000368 (Active) has worked for 7 consecutive days.
+WFS000368 (Active) has worked for 7 consecutive days.
+WFS000368 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000368 (Active) has worked for 7 consecutive days.
+WFS000368 (Active) has worked for 7 consecutive days.
+WFS000368 (Active) has worked for 7 consecutive days.
+WFS000368 (Active) has worked for 7 consecutive days.
+WFS000368 (Active) has worked for 7 consecutive days.
+WFS000368 (Active) has worked for 7 consecutive days.
+WFS000368 (Active) has worked for 7 consecutive days.
+WFS000368 (Active) has worked for 7 consecutive days.
+WFS000368 (Active) has worked for 7 consecutive days.
+WFS000372 (Active) has worked for 7 consecutive days.
+WFS000372 (Active) has worked for 7 consecutive days.
+WFS000372 (Active) has worked for 7 consecutive days.
+WFS000372 (Active) has worked for 7 consecutive days.
+WFS000372 (Active) has worked for 7 consecutive days.
+WFS000372 (Active) has worked for 7 consecutive days.
+WFS000372 (Active) has worked for 7 consecutive days.
+WFS000372 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000372 (Active) has worked for 7 consecutive days.
+WFS000372 (Active) has worked for 7 consecutive days.
+WFS000372 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000372 (Active) has worked for 7 consecutive days.
+WFS000372 (Active) has worked for 7 consecutive days.
+WFS000372 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000372 (Active) has worked for 7 consecutive days.
+WFS000372 (Active) has worked for 7 consecutive days.
+WFS000372 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000372 (Active) has worked for 7 consecutive days.
+WFS000372 (Active) has worked for 7 consecutive days.
+WFS000372 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000372 (Active) has worked for 7 consecutive days.
+WFS000372 (Active) has worked for 7 consecutive days.
+WFS000372 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000372 (Active) has worked for 7 consecutive days.
+WFS000372 (Active) has worked for 7 consecutive days.
+WFS000372 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000372 (Active) has worked for 7 consecutive days.
+WFS000382 (Active) has worked for 7 consecutive days.
+WFS000382 (Active) has worked for 7 consecutive days.
+WFS000382 (Active) has worked for 7 consecutive days.
+WFS000382 (Active) has worked for 7 consecutive days.
+WFS000382 (Active) has worked for 7 consecutive days.
+WFS000382 (Active) has worked for 7 consecutive days.
+WFS000382 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000382 (Active) has worked for 7 consecutive days.
+WFS000382 (Active) has worked for 7 consecutive days.
+WFS000382 (Active) has worked for 7 consecutive days.
+WFS000382 (Active) has worked for 7 consecutive days.
+WFS000382 (Active) has worked for more than 14 hours in a single shift.
+WFS000382 (Active) has worked for 7 consecutive days.
+WFS000382 (Active) has worked for 7 consecutive days.
+WFS000382 (Active) has worked for 7 consecutive days.
+WFS000391 (Active) has worked for 7 consecutive days.
+WFS000391 (Active) has worked for 7 consecutive days.
+WFS000391 (Active) has worked for 7 consecutive days.
+WFS000391 (Active) has worked for 7 consecutive days.
+WFS000391 (Active) has worked for 7 consecutive days.
+WFS000391 (Active) has worked for 7 consecutive days.
+WFS000391 (Active) has worked for 7 consecutive days.
+WFS000391 (Active) has worked for 7 consecutive days.
+WFS000391 (Active) has worked for more than 14 hours in a single shift.
+WFS000391 (Active) has worked for 7 consecutive days.
+WFS000391 (Active) has worked for 7 consecutive days.
+WFS000391 (Active) has worked for more than 14 hours in a single shift.
+WFS000391 (Active) has worked for 7 consecutive days.
+WFS000391 (Active) has worked for 7 consecutive days.
+WFS000391 (Active) has worked for 7 consecutive days.
+WFS000391 (Active) has worked for 7 consecutive days.
+WFS000391 (Active) has worked for 7 consecutive days.
+WFS000393 (Active) has worked for 7 consecutive days.
+WFS000393 (Active) has worked for 7 consecutive days.
+WFS000393 (Active) has worked for 7 consecutive days.
+WFS000393 (Active) has worked for 7 consecutive days.
+WFS000393 (Active) has worked for 7 consecutive days.
+WFS000393 (Active) has worked for 7 consecutive days.
+WFS000393 (Active) has worked for 7 consecutive days.
+WFS000393 (Active) has worked for 7 consecutive days.
+WFS000393 (Active) has worked for 7 consecutive days.
+WFS000393 (Active) has worked for 7 consecutive days.
+WFS000393 (Active) has worked for 7 consecutive days.
+WFS000393 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000393 (Active) has worked for 7 consecutive days.
+WFS000412 (Active) has worked for 7 consecutive days.
+WFS000412 (Active) has worked for 7 consecutive days.
+WFS000412 (Active) has worked for 7 consecutive days.
+WFS000412 (Active) has worked for 7 consecutive days.
+WFS000412 (Active) has worked for 7 consecutive days.
+WFS000412 (Active) has worked for 7 consecutive days.
+WFS000412 (Active) has worked for 7 consecutive days.
+WFS000412 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000412 (Active) has worked for 7 consecutive days.
+WFS000412 (Active) has worked for 7 consecutive days.
+WFS000412 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000412 (Active) has worked for 7 consecutive days.
+WFS000412 (Active) has worked for 7 consecutive days.
+WFS000412 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000412 (Active) has worked for 7 consecutive days.
+WFS000412 (Active) has worked for 7 consecutive days.
+WFS000412 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000412 (Active) has worked for 7 consecutive days.
+WFS000412 (Active) has worked for 7 consecutive days.
+WFS000412 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000412 (Active) has worked for 7 consecutive days.
+WFS000412 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000412 (Active) has worked for 7 consecutive days.
+WFS000412 (Active) has worked for 7 consecutive days.
+WFS000412 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000412 (Active) has worked for 7 consecutive days.
+WFS000412 (Active) has worked for 7 consecutive days.
+WFS000412 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000414 (Active) has worked for 7 consecutive days.
+WFS000414 (Active) has worked for 7 consecutive days.
+WFS000414 (Active) has worked for 7 consecutive days.
+WFS000414 (Active) has worked for 7 consecutive days.
+WFS000414 (Active) has worked for 7 consecutive days.
+WFS000414 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000414 (Active) has worked for 7 consecutive days.
+WFS000414 (Active) has worked for 7 consecutive days.
+WFS000414 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000414 (Active) has worked for 7 consecutive days.
+WFS000414 (Active) has worked for 7 consecutive days.
+WFS000414 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000414 (Active) has worked for 7 consecutive days.
+WFS000414 (Active) has worked for 7 consecutive days.
+WFS000414 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000414 (Active) has worked for 7 consecutive days.
+WFS000414 (Active) has worked for 7 consecutive days.
+WFS000414 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000414 (Active) has worked for 7 consecutive days.
+WFS000414 (Active) has worked for 7 consecutive days.
+WFS000414 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000414 (Active) has worked for 7 consecutive days.
+WFS000414 (Active) has worked for 7 consecutive days.
+WFS000414 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000414 (Active) has worked for 7 consecutive days.
+WFS000418 (Active) has worked for 7 consecutive days.
+WFS000418 (Active) has worked for 7 consecutive days.
+WFS000418 (Active) has worked for 7 consecutive days.
+WFS000418 (Active) has worked for 7 consecutive days.
+WFS000418 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000418 (Active) has worked for 7 consecutive days.
+WFS000418 (Active) has worked for 7 consecutive days.
+WFS000418 (Active) has worked for 7 consecutive days.
+WFS000418 (Active) has worked for more than 14 hours in a single shift.
+WFS000418 (Active) has worked for 7 consecutive days.
+WFS000418 (Active) has worked for 7 consecutive days.
+WFS000418 (Active) has worked for 7 consecutive days.
+WFS000420 (Active) has worked for 7 consecutive days.
+WFS000420 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000420 (Active) has worked for 7 consecutive days.
+WFS000420 (Active) has worked for 7 consecutive days.
+WFS000420 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000424 (Active) has worked for 7 consecutive days.
+WFS000424 (Active) has worked for 7 consecutive days.
+WFS000424 (Active) has worked for 7 consecutive days.
+WFS000424 (Active) has worked for 7 consecutive days.
+WFS000424 (Active) has worked for 7 consecutive days.
+WFS000424 (Active) has worked for 7 consecutive days.
+WFS000424 (Active) has worked for 7 consecutive days.
+WFS000424 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000424 (Active) has worked for 7 consecutive days.
+WFS000424 (Active) has worked for 7 consecutive days.
+WFS000424 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000424 (Active) has worked for 7 consecutive days.
+WFS000424 (Active) has worked for 7 consecutive days.
+WFS000424 (Active) has worked for more than 14 hours in a single shift.
+WFS000424 (Active) has worked for 7 consecutive days.
+WFS000424 (Active) has worked for 7 consecutive days.
+WFS000424 (Active) has worked for more than 14 hours in a single shift.
+WFS000424 (Active) has worked for 7 consecutive days.
+WFS000424 (Active) has worked for 7 consecutive days.
+WFS000424 (Active) has worked for more than 14 hours in a single shift.
+WFS000424 (Active) has worked for 7 consecutive days.
+WFS000424 (Active) has worked for 7 consecutive days.
+WFS000424 (Active) has worked for 7 consecutive days.
+WFS000424 (Active) has worked for 7 consecutive days.
+WFS000424 (Active) has worked for 7 consecutive days.
+WFS000426 (Active) has worked for 7 consecutive days.
+WFS000426 (Active) has worked for 7 consecutive days.
+WFS000426 (Active) has worked for 7 consecutive days.
+WFS000426 (Active) has worked for 7 consecutive days.
+WFS000426 (Active) has worked for 7 consecutive days.
+WFS000426 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000426 (Active) has worked for 7 consecutive days.
+WFS000426 (Active) has worked for 7 consecutive days.
+WFS000426 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000426 (Active) has worked for 7 consecutive days.
+WFS000426 (Active) has worked for 7 consecutive days.
+WFS000426 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000426 (Active) has worked for 7 consecutive days.
+WFS000426 (Active) has worked for 7 consecutive days.
+WFS000426 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000426 (Active) has worked for 7 consecutive days.
+WFS000426 (Active) has worked for 7 consecutive days.
+WFS000426 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000426 (Active) has worked for 7 consecutive days.
+WFS000426 (Active) has worked for 7 consecutive days.
+WFS000426 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000426 (Active) has worked for 7 consecutive days.
+WFS000426 (Active) has worked for 7 consecutive days.
+WFS000426 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000426 (Active) has worked for 7 consecutive days.
+WFS000426 (Active) has worked for 7 consecutive days.
+WFS000426 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000426 (Active) has worked for 7 consecutive days.
+WFS000426 (Active) has worked for 7 consecutive days.
+WFS000426 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000434 (Active) has worked for 7 consecutive days.
+WFS000434 (Active) has worked for 7 consecutive days.
+WFS000434 (Active) has worked for 7 consecutive days.
+WFS000434 (Active) has worked for 7 consecutive days.
+WFS000434 (Active) has worked for 7 consecutive days.
+WFS000434 (Active) has worked for 7 consecutive days.
+WFS000434 (Active) has worked for 7 consecutive days.
+WFS000434 (Active) has worked for 7 consecutive days.
+WFS000434 (Active) has worked for 7 consecutive days.
+WFS000434 (Active) has worked for 7 consecutive days.
+WFS000434 (Active) has worked for 7 consecutive days.
+WFS000434 (Active) has worked for 7 consecutive days.
+WFS000434 (Active) has worked for 7 consecutive days.
+WFS000434 (Active) has worked for 7 consecutive days.
+WFS000434 (Active) has worked for 7 consecutive days.
+WFS000434 (Active) has worked for 7 consecutive days.
+WFS000442 (Active) has worked for 7 consecutive days.
+WFS000442 (Active) has worked for 7 consecutive days.
+WFS000442 (Active) has worked for 7 consecutive days.
+WFS000442 (Active) has worked for 7 consecutive days.
+WFS000442 (Active) has worked for 7 consecutive days.
+WFS000442 (Active) has worked for 7 consecutive days.
+WFS000442 (Active) has worked for 7 consecutive days.
+WFS000442 (Active) has worked for 7 consecutive days.
+WFS000442 (Active) has worked for 7 consecutive days.
+WFS000442 (Active) has worked for 7 consecutive days.
+WFS000442 (Active) has worked for 7 consecutive days.
+WFS000442 (Active) has worked for 7 consecutive days.
+WFS000442 (Active) has worked for 7 consecutive days.
+WFS000442 (Active) has worked for more than 14 hours in a single shift.
+WFS000442 (Active) has worked for 7 consecutive days.
+WFS000442 (Active) has worked for 7 consecutive days.
+WFS000446 (Active) has worked for 7 consecutive days.
+WFS000446 (Active) has worked for 7 consecutive days.
+WFS000446 (Active) has worked for 7 consecutive days.
+WFS000446 (Active) has worked for 7 consecutive days.
+WFS000446 (Active) has worked for 7 consecutive days.
+WFS000446 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000446 (Active) has worked for 7 consecutive days.
+WFS000446 (Active) has worked for 7 consecutive days.
+WFS000446 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000446 (Active) has worked for 7 consecutive days.
+WFS000446 (Active) has worked for 7 consecutive days.
+WFS000446 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000446 (Active) has worked for 7 consecutive days.
+WFS000446 (Active) has worked for 7 consecutive days.
+WFS000446 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000446 (Active) has worked for 7 consecutive days.
+WFS000446 (Active) has worked for 7 consecutive days.
+WFS000446 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000446 (Active) has worked for 7 consecutive days.
+WFS000446 (Active) has worked for 7 consecutive days.
+WFS000446 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000446 (Active) has worked for 7 consecutive days.
+WFS000446 (Active) has worked for 7 consecutive days.
+WFS000446 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000446 (Active) has worked for 7 consecutive days.
+WFS000446 (Active) has worked for 7 consecutive days.
+WFS000456 (Active) has worked for 7 consecutive days.
+WFS000456 (Active) has worked for 7 consecutive days.
+WFS000456 (Active) has worked for 7 consecutive days.
+WFS000456 (Active) has worked for 7 consecutive days.
+WFS000456 (Active) has worked for 7 consecutive days.
+WFS000456 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000456 (Active) has worked for 7 consecutive days.
+WFS000456 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000456 (Active) has worked for 7 consecutive days.
+WFS000456 (Active) has worked for 7 consecutive days.
+WFS000456 (Active) has worked for 7 consecutive days.
+WFS000456 (Active) has worked for more than 14 hours in a single shift.
+WFS000456 (Active) has worked for 7 consecutive days.
+WFS000456 (Active) has worked for 7 consecutive days.
+WFS000456 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000456 (Active) has worked for 7 consecutive days.
+WFS000456 (Active) has worked for 7 consecutive days.
+WFS000456 (Active) has worked for 7 consecutive days.
+WFS000456 (Active) has worked for more than 14 hours in a single shift.
+WFS000456 (Active) has worked for 7 consecutive days.
+WFS000456 (Active) has worked for more than 14 hours in a single shift.
+WFS000456 (Active) has worked for 7 consecutive days.
+WFS000456 (Active) has worked for 7 consecutive days.
+WFS000456 (Active) has worked for 7 consecutive days.
+WFS000457 (Active) has worked for 7 consecutive days.
+WFS000457 (Active) has worked for 7 consecutive days.
+WFS000457 (Active) has worked for 7 consecutive days.
+WFS000457 (Active) has worked for 7 consecutive days.
+WFS000457 (Active) has worked for 7 consecutive days.
+WFS000457 (Active) has worked for 7 consecutive days.
+WFS000457 (Active) has worked for 7 consecutive days.
+WFS000457 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000457 (Active) has worked for 7 consecutive days.
+WFS000457 (Active) has worked for 7 consecutive days.
+WFS000457 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000457 (Active) has worked for 7 consecutive days.
+WFS000457 (Active) has worked for 7 consecutive days.
+WFS000457 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000457 (Active) has worked for 7 consecutive days.
+WFS000457 (Active) has worked for 7 consecutive days.
+WFS000457 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000457 (Active) has worked for 7 consecutive days.
+WFS000457 (Active) has worked for 7 consecutive days.
+WFS000457 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000457 (Active) has worked for 7 consecutive days.
+WFS000457 (Active) has worked for 7 consecutive days.
+WFS000457 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000457 (Active) has worked for 7 consecutive days.
+WFS000457 (Active) has worked for 7 consecutive days.
+WFS000457 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000457 (Active) has worked for 7 consecutive days.
+WFS000460 (Active) has worked for 7 consecutive days.
+WFS000460 (Active) has worked for 7 consecutive days.
+WFS000460 (Active) has worked for 7 consecutive days.
+WFS000460 (Active) has worked for 7 consecutive days.
+WFS000460 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000460 (Active) has worked for 7 consecutive days.
+WFS000460 (Active) has worked for 7 consecutive days.
+WFS000460 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000460 (Active) has worked for 7 consecutive days.
+WFS000460 (Active) has worked for 7 consecutive days.
+WFS000460 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000460 (Active) has worked for 7 consecutive days.
+WFS000460 (Active) has worked for 7 consecutive days.
+WFS000460 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000460 (Active) has worked for 7 consecutive days.
+WFS000462 (Active) has worked for 7 consecutive days.
+WFS000462 (Active) has worked for 7 consecutive days.
+WFS000462 (Active) has worked for 7 consecutive days.
+WFS000462 (Active) has worked for 7 consecutive days.
+WFS000462 (Active) has worked for 7 consecutive days.
+WFS000462 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000462 (Active) has worked for 7 consecutive days.
+WFS000462 (Active) has worked for 7 consecutive days.
+WFS000462 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000462 (Active) has worked for 7 consecutive days.
+WFS000462 (Active) has worked for 7 consecutive days.
+WFS000462 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000462 (Active) has worked for 7 consecutive days.
+WFS000462 (Active) has worked for 7 consecutive days.
+WFS000462 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000462 (Active) has worked for 7 consecutive days.
+WFS000462 (Active) has worked for 7 consecutive days.
+WFS000462 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000462 (Active) has worked for 7 consecutive days.
+WFS000462 (Active) has worked for 7 consecutive days.
+WFS000462 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000463 (Active) has worked for 7 consecutive days.
+WFS000463 (Active) has worked for 7 consecutive days.
+WFS000463 (Active) has worked for 7 consecutive days.
+WFS000463 (Active) has worked for 7 consecutive days.
+WFS000463 (Active) has worked for 7 consecutive days.
+WFS000463 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000463 (Active) has worked for 7 consecutive days.
+WFS000463 (Active) has worked for 7 consecutive days.
+WFS000463 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000463 (Active) has worked for 7 consecutive days.
+WFS000463 (Active) has worked for 7 consecutive days.
+WFS000463 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000463 (Active) has worked for 7 consecutive days.
+WFS000463 (Active) has worked for 7 consecutive days.
+WFS000463 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000463 (Active) has worked for 7 consecutive days.
+WFS000463 (Active) has worked for 7 consecutive days.
+WFS000463 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000463 (Active) has worked for 7 consecutive days.
+WFS000463 (Active) has worked for 7 consecutive days.
+WFS000463 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000463 (Active) has worked for 7 consecutive days.
+WFS000463 (Active) has worked for 7 consecutive days.
+WFS000463 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000463 (Active) has worked for 7 consecutive days.
+WFS000463 (Active) has worked for 7 consecutive days.
+WFS000463 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000463 (Active) has worked for 7 consecutive days.
+WFS000463 (Active) has worked for 7 consecutive days.
+WFS000463 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000465 (Active) has worked for 7 consecutive days.
+WFS000465 (Active) has worked for 7 consecutive days.
+WFS000465 (Active) has worked for 7 consecutive days.
+WFS000465 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000465 (Active) has worked for 7 consecutive days.
+WFS000465 (Active) has worked for 7 consecutive days.
+WFS000465 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000465 (Active) has worked for 7 consecutive days.
+WFS000465 (Active) has worked for 7 consecutive days.
+WFS000469 (Active) has worked for 7 consecutive days.
+WFS000469 (Active) has worked for 7 consecutive days.
+WFS000469 (Active) has worked for 7 consecutive days.
+WFS000469 (Active) has worked for 7 consecutive days.
+WFS000469 (Active) has worked for 7 consecutive days.
+WFS000469 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000469 (Active) has worked for 7 consecutive days.
+WFS000469 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000469 (Active) has worked for 7 consecutive days.
+WFS000469 (Active) has worked for 7 consecutive days.
+WFS000469 (Active) has worked for 7 consecutive days.
+WFS000469 (Active) has worked for 7 consecutive days.
+WFS000469 (Active) has worked for 7 consecutive days.
+WFS000469 (Active) has worked for 7 consecutive days.
+WFS000469 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000469 (Active) has worked for 7 consecutive days.
+WFS000469 (Active) has worked for 7 consecutive days.
+WFS000469 (Active) has worked for 7 consecutive days.
+WFS000473 (Active) has worked for 7 consecutive days.
+WFS000473 (Active) has worked for 7 consecutive days.
+WFS000473 (Active) has worked for 7 consecutive days.
+WFS000473 (Active) has worked for 7 consecutive days.
+WFS000473 (Active) has worked for 7 consecutive days.
+WFS000473 (Active) has worked for 7 consecutive days.
+WFS000473 (Active) has worked for 7 consecutive days.
+WFS000473 (Active) has worked for 7 consecutive days.
+WFS000473 (Active) has worked for 7 consecutive days.
+WFS000473 (Active) has worked for 7 consecutive days.
+WFS000473 (Active) has worked for 7 consecutive days.
+WFS000473 (Active) has worked for more than 14 hours in a single shift.
+WFS000473 (Active) has worked for 7 consecutive days.
+WFS000473 (Active) has worked for 7 consecutive days.
+WFS000473 (Active) has worked for 7 consecutive days.
+WFS000473 (Active) has worked for 7 consecutive days.
+WFS000473 (Active) has worked for more than 14 hours in a single shift.
+WFS000473 (Active) has worked for 7 consecutive days.
+WFS000473 (Active) has worked for 7 consecutive days.
+WFS000473 (Active) has worked for 7 consecutive days.
+WFS000473 (Active) has worked for 7 consecutive days.
+WFS000473 (Active) has worked for 7 consecutive days.
+WFS000473 (Active) has worked for 7 consecutive days.
+WFS000473 (Active) has worked for more than 14 hours in a single shift.
+WFS000473 (Active) has worked for 7 consecutive days.
+WFS000477 (Active) has worked for 7 consecutive days.
+WFS000477 (Active) has worked for 7 consecutive days.
+WFS000477 (Active) has worked for 7 consecutive days.
+WFS000477 (Active) has worked for 7 consecutive days.
+WFS000477 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000477 (Active) has worked for 7 consecutive days.
+WFS000477 (Active) has worked for 7 consecutive days.
+WFS000477 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000477 (Active) has worked for 7 consecutive days.
+WFS000477 (Active) has worked for 7 consecutive days.
+WFS000477 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000477 (Active) has worked for 7 consecutive days.
+WFS000477 (Active) has worked for 7 consecutive days.
+WFS000477 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000477 (Active) has worked for 7 consecutive days.
+WFS000491 (Active) has worked for 7 consecutive days.
+WFS000491 (Active) has worked for 7 consecutive days.
+WFS000491 (Active) has worked for 7 consecutive days.
+WFS000491 (Active) has worked for 7 consecutive days.
+WFS000491 (Active) has worked for 7 consecutive days.
+WFS000491 (Active) has worked for 7 consecutive days.
+WFS000491 (Active) has worked for 7 consecutive days.
+WFS000491 (Active) has worked for 7 consecutive days.
+WFS000491 (Active) has worked for 7 consecutive days.
+WFS000491 (Active) has worked for 7 consecutive days.
+WFS000491 (Active) has worked for 7 consecutive days.
+WFS000491 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000491 (Active) has worked for 7 consecutive days.
+WFS000491 (Active) has worked for 7 consecutive days.
+WFS000491 (Active) has worked for 7 consecutive days.
+WFS000491 (Active) has worked for more than 14 hours in a single shift.
+WFS000491 (Active) has worked for 7 consecutive days.
+WFS000491 (Active) has worked for 7 consecutive days.
+WFS000491 (Active) has worked for 7 consecutive days.
+WFS000491 (Active) has worked for 7 consecutive days.
+WFS000495 (Active) has worked for 7 consecutive days.
+WFS000495 (Active) has worked for 7 consecutive days.
+WFS000495 (Active) has worked for 7 consecutive days.
+WFS000495 (Active) has worked for 7 consecutive days.
+WFS000495 (Active) has worked for 7 consecutive days.
+WFS000495 (Active) has worked for 7 consecutive days.
+WFS000495 (Active) has worked for 7 consecutive days.
+WFS000495 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000495 (Active) has worked for 7 consecutive days.
+WFS000495 (Active) has worked for 7 consecutive days.
+WFS000495 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000495 (Active) has worked for 7 consecutive days.
+WFS000495 (Active) has worked for 7 consecutive days.
+WFS000495 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000495 (Active) has worked for 7 consecutive days.
+WFS000495 (Active) has worked for 7 consecutive days.
+WFS000495 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000495 (Active) has worked for 7 consecutive days.
+WFS000495 (Active) has worked for 7 consecutive days.
+WFS000495 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000495 (Active) has worked for 7 consecutive days.
+WFS000495 (Active) has worked for 7 consecutive days.
+WFS000495 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000495 (Active) has worked for 7 consecutive days.
+WFS000495 (Active) has worked for 7 consecutive days.
+WFS000495 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000495 (Active) has worked for 7 consecutive days.
+WFS000495 (Active) has worked for 7 consecutive days.
+WFS000495 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000496 (Active) has worked for 7 consecutive days.
+WFS000496 (Active) has worked for 7 consecutive days.
+WFS000496 (Active) has worked for 7 consecutive days.
+WFS000496 (Active) has worked for 7 consecutive days.
+WFS000496 (Active) has worked for 7 consecutive days.
+WFS000496 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000496 (Active) has worked for 7 consecutive days.
+WFS000496 (Active) has worked for 7 consecutive days.
+WFS000496 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000496 (Active) has worked for 7 consecutive days.
+WFS000496 (Active) has worked for 7 consecutive days.
+WFS000496 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000496 (Active) has worked for 7 consecutive days.
+WFS000496 (Active) has worked for 7 consecutive days.
+WFS000496 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000496 (Active) has worked for 7 consecutive days.
+WFS000496 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000496 (Active) has worked for 7 consecutive days.
+WFS000496 (Active) has worked for 7 consecutive days.
+WFS000496 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000496 (Active) has worked for 7 consecutive days.
+WFS000496 (Active) has worked for 7 consecutive days.
+WFS000496 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000496 (Active) has worked for 7 consecutive days.
+WFS000496 (Active) has worked for 7 consecutive days.
+WFS000496 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000499 (Active) has worked for 7 consecutive days.
+WFS000499 (Active) has worked for 7 consecutive days.
+WFS000499 (Active) has worked for 7 consecutive days.
+WFS000499 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000499 (Active) has worked for 7 consecutive days.
+WFS000499 (Active) has worked for 7 consecutive days.
+WFS000499 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000499 (Active) has worked for 7 consecutive days.
+WFS000499 (Active) has worked for 7 consecutive days.
+WFS000499 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000499 (Active) has worked for 7 consecutive days.
+WFS000499 (Active) has worked for 7 consecutive days.
+WFS000499 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000499 (Active) has worked for 7 consecutive days.
+WFS000499 (Active) has worked for 7 consecutive days.
+WFS000499 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000499 (Active) has worked for 7 consecutive days.
+WFS000499 (Active) has worked for 7 consecutive days.
+WFS000499 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000499 (Active) has worked for 7 consecutive days.
+WFS000499 (Active) has worked for 7 consecutive days.
+WFS000499 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000499 (Active) has worked for 7 consecutive days.
+WFS000499 (Active) has worked for 7 consecutive days.
+WFS000499 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000499 (Active) has worked for 7 consecutive days.
+WFS000499 (Active) has worked for 7 consecutive days.
+WFS000499 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000500 (Active) has worked for 7 consecutive days.
+WFS000500 (Active) has worked for 7 consecutive days.
+WFS000500 (Active) has worked for 7 consecutive days.
+WFS000500 (Active) has worked for 7 consecutive days.
+WFS000500 (Active) has worked for 7 consecutive days.
+WFS000500 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000500 (Active) has worked for 7 consecutive days.
+WFS000500 (Active) has worked for 7 consecutive days.
+WFS000500 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000500 (Active) has worked for 7 consecutive days.
+WFS000500 (Active) has worked for 7 consecutive days.
+WFS000500 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000500 (Active) has worked for 7 consecutive days.
+WFS000500 (Active) has worked for 7 consecutive days.
+WFS000500 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000500 (Active) has worked for 7 consecutive days.
+WFS000500 (Active) has worked for 7 consecutive days.
+WFS000500 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000500 (Active) has worked for 7 consecutive days.
+WFS000500 (Active) has worked for 7 consecutive days.
+WFS000500 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000500 (Active) has worked for 7 consecutive days.
+WFS000500 (Active) has worked for 7 consecutive days.
+WFS000500 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000500 (Active) has worked for 7 consecutive days.
+WFS000500 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000500 (Active) has worked for 7 consecutive days.
+WFS000500 (Active) has worked for 7 consecutive days.
+WFS000500 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000501 (Active) has worked for 7 consecutive days.
+WFS000501 (Active) has worked for 7 consecutive days.
+WFS000501 (Active) has worked for 7 consecutive days.
+WFS000501 (Active) has worked for 7 consecutive days.
+WFS000501 (Active) has worked for 7 consecutive days.
+WFS000501 (Active) has worked for 7 consecutive days.
+WFS000501 (Active) has worked for 7 consecutive days.
+WFS000501 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000501 (Active) has worked for 7 consecutive days.
+WFS000501 (Active) has worked for 7 consecutive days.
+WFS000501 (Active) has worked for 7 consecutive days.
+WFS000501 (Active) has worked for 7 consecutive days.
+WFS000501 (Active) has worked for 7 consecutive days.
+WFS000501 (Active) has worked for 7 consecutive days.
+WFS000501 (Active) has worked for 7 consecutive days.
+WFS000501 (Active) has worked for 7 consecutive days.
+WFS000501 (Active) has worked for more than 14 hours in a single shift.
+WFS000501 (Active) has worked for 7 consecutive days.
+WFS000501 (Active) has worked for 7 consecutive days.
+WFS000501 (Active) has worked for 7 consecutive days.
+WFS000503 (Active) has worked for 7 consecutive days.
+WFS000503 (Active) has worked for 7 consecutive days.
+WFS000503 (Active) has worked for 7 consecutive days.
+WFS000503 (Active) has worked for 7 consecutive days.
+WFS000503 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000503 (Active) has worked for 7 consecutive days.
+WFS000503 (Active) has worked for 7 consecutive days.
+WFS000503 (Active) has worked for 7 consecutive days.
+WFS000503 (Active) has worked for 7 consecutive days.
+WFS000503 (Active) has worked for 7 consecutive days.
+WFS000503 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000503 (Active) has worked for 7 consecutive days.
+WFS000503 (Active) has worked for 7 consecutive days.
+WFS000503 (Active) has worked for 7 consecutive days.
+WFS000503 (Active) has worked for 7 consecutive days.
+WFS000503 (Active) has worked for 7 consecutive days.
+WFS000503 (Active) has worked for 7 consecutive days.
+WFS000503 (Active) has worked for 7 consecutive days.
+WFS000505 (Active) has worked for 7 consecutive days.
+WFS000505 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000505 (Active) has worked for 7 consecutive days.
+WFS000505 (Active) has worked for 7 consecutive days.
+WFS000505 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000505 (Active) has worked for 7 consecutive days.
+WFS000505 (Active) has worked for 7 consecutive days.
+WFS000505 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000507 (Active) has worked for 7 consecutive days.
+WFS000507 (Active) has worked for 7 consecutive days.
+WFS000507 (Active) has worked for 7 consecutive days.
+WFS000507 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000507 (Active) has worked for 7 consecutive days.
+WFS000507 (Active) has worked for 7 consecutive days.
+WFS000507 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000507 (Active) has worked for 7 consecutive days.
+WFS000507 (Active) has worked for 7 consecutive days.
+WFS000507 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000507 (Active) has worked for 7 consecutive days.
+WFS000507 (Active) has worked for 7 consecutive days.
+WFS000507 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000507 (Active) has worked for 7 consecutive days.
+WFS000507 (Active) has worked for 7 consecutive days.
+WFS000507 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000508 (Active) has worked for 7 consecutive days.
+WFS000508 (Active) has worked for 7 consecutive days.
+WFS000508 (Active) has worked for 7 consecutive days.
+WFS000508 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000508 (Active) has worked for 7 consecutive days.
+WFS000508 (Active) has worked for 7 consecutive days.
+WFS000508 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000508 (Active) has worked for 7 consecutive days.
+WFS000508 (Active) has worked for 7 consecutive days.
+WFS000508 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000508 (Active) has worked for 7 consecutive days.
+WFS000508 (Active) has worked for 7 consecutive days.
+WFS000508 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000508 (Active) has worked for 7 consecutive days.
+WFS000508 (Active) has worked for 7 consecutive days.
+WFS000508 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000508 (Active) has worked for 7 consecutive days.
+WFS000508 (Active) has worked for 7 consecutive days.
+WFS000508 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000508 (Active) has worked for 7 consecutive days.
+WFS000508 (Active) has worked for 7 consecutive days.
+WFS000508 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000508 (Active) has worked for 7 consecutive days.
+WFS000508 (Active) has worked for 7 consecutive days.
+WFS000508 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000508 (Active) has worked for 7 consecutive days.
+WFS000509 (Active) has worked for 7 consecutive days.
+WFS000509 (Active) has worked for 7 consecutive days.
+WFS000509 (Active) has worked for 7 consecutive days.
+WFS000509 (Active) has worked for 7 consecutive days.
+WFS000509 (Active) has worked for 7 consecutive days.
+WFS000509 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000509 (Active) has worked for 7 consecutive days.
+WFS000509 (Active) has worked for 7 consecutive days.
+WFS000509 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000509 (Active) has worked for 7 consecutive days.
+WFS000509 (Active) has worked for 7 consecutive days.
+WFS000509 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000509 (Active) has worked for 7 consecutive days.
+WFS000509 (Active) has worked for 7 consecutive days.
+WFS000509 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000509 (Active) has worked for 7 consecutive days.
+WFS000509 (Active) has worked for 7 consecutive days.
+WFS000509 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000509 (Active) has worked for 7 consecutive days.
+WFS000509 (Active) has worked for 7 consecutive days.
+WFS000509 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000509 (Active) has worked for 7 consecutive days.
+WFS000509 (Active) has worked for 7 consecutive days.
+WFS000509 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000509 (Active) has worked for 7 consecutive days.
+WFS000511 (Active) has worked for 7 consecutive days.
+WFS000511 (Active) has worked for 7 consecutive days.
+WFS000511 (Active) has worked for 7 consecutive days.
+WFS000511 (Active) has worked for 7 consecutive days.
+WFS000511 (Active) has worked for 7 consecutive days.
+WFS000511 (Active) has worked for 7 consecutive days.
+WFS000511 (Active) has worked for 7 consecutive days.
+WFS000511 (Active) has worked for 7 consecutive days.
+WFS000511 (Active) has worked for 7 consecutive days.
+WFS000511 (Active) has worked for 7 consecutive days.
+WFS000511 (Active) has worked for 7 consecutive days.
+WFS000511 (Active) has worked for 7 consecutive days.
+WFS000511 (Active) has worked for 7 consecutive days.
+WFS000511 (Active) has worked for 7 consecutive days.
+WFS000511 (Active) has worked for 7 consecutive days.
+WFS000511 (Active) has worked for 7 consecutive days.
+WFS000511 (Active) has worked for more than 14 hours in a single shift.
+WFS000511 (Active) has worked for 7 consecutive days.
+WFS000511 (Active) has worked for 7 consecutive days.
+WFS000511 (Active) has worked for 7 consecutive days.
+WFS000511 (Active) has worked for more than 14 hours in a single shift.
+WFS000514 (Active) has worked for 7 consecutive days.
+WFS000514 (Active) has worked for 7 consecutive days.
+WFS000514 (Active) has worked for 7 consecutive days.
+WFS000514 (Active) has worked for 7 consecutive days.
+WFS000514 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000514 (Active) has worked for 7 consecutive days.
+WFS000514 (Active) has worked for 7 consecutive days.
+WFS000514 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000514 (Active) has worked for 7 consecutive days.
+WFS000515 (Active) has worked for 7 consecutive days.
+WFS000515 (Active) has worked for 7 consecutive days.
+WFS000515 (Active) has worked for 7 consecutive days.
+WFS000515 (Active) has worked for 7 consecutive days.
+WFS000515 (Active) has worked for 7 consecutive days.
+WFS000515 (Active) has worked for 7 consecutive days.
+WFS000515 (Active) has worked for 7 consecutive days.
+WFS000515 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000515 (Active) has worked for 7 consecutive days.
+WFS000515 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000515 (Active) has worked for 7 consecutive days.
+WFS000515 (Active) has worked for 7 consecutive days.
+WFS000515 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000515 (Active) has worked for 7 consecutive days.
+WFS000515 (Active) has worked for 7 consecutive days.
+WFS000515 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000515 (Active) has worked for 7 consecutive days.
+WFS000515 (Active) has worked for 7 consecutive days.
+WFS000515 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000515 (Active) has worked for 7 consecutive days.
+WFS000515 (Active) has worked for 7 consecutive days.
+WFS000515 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000515 (Active) has worked for 7 consecutive days.
+WFS000517 (Active) has worked for 7 consecutive days.
+WFS000517 (Active) has worked for 7 consecutive days.
+WFS000517 (Active) has worked for 7 consecutive days.
+WFS000517 (Active) has worked for 7 consecutive days.
+WFS000517 (Active) has worked for 7 consecutive days.
+WFS000517 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000517 (Active) has worked for 7 consecutive days.
+WFS000517 (Active) has worked for 7 consecutive days.
+WFS000517 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000517 (Active) has worked for 7 consecutive days.
+WFS000517 (Active) has worked for 7 consecutive days.
+WFS000517 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000517 (Active) has worked for 7 consecutive days.
+WFS000517 (Active) has worked for 7 consecutive days.
+WFS000517 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000517 (Active) has worked for 7 consecutive days.
+WFS000517 (Active) has worked for 7 consecutive days.
+WFS000517 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000517 (Active) has worked for 7 consecutive days.
+WFS000517 (Active) has worked for 7 consecutive days.
+WFS000517 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000517 (Active) has worked for 7 consecutive days.
+WFS000517 (Active) has worked for 7 consecutive days.
+WFS000517 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000518 (Active) has worked for 7 consecutive days.
+WFS000518 (Active) has worked for 7 consecutive days.
+WFS000518 (Active) has worked for 7 consecutive days.
+WFS000518 (Active) has worked for 7 consecutive days.
+WFS000518 (Active) has worked for 7 consecutive days.
+WFS000518 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000518 (Active) has worked for 7 consecutive days.
+WFS000518 (Active) has worked for 7 consecutive days.
+WFS000518 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000518 (Active) has worked for 7 consecutive days.
+WFS000518 (Active) has worked for 7 consecutive days.
+WFS000518 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000519 (Active) has worked for 7 consecutive days.
+WFS000519 (Active) has worked for 7 consecutive days.
+WFS000519 (Active) has worked for 7 consecutive days.
+WFS000519 (Active) has worked for 7 consecutive days.
+WFS000519 (Active) has worked for 7 consecutive days.
+WFS000519 (Active) has worked for 7 consecutive days.
+WFS000519 (Active) has worked for 7 consecutive days.
+WFS000519 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000519 (Active) has worked for 7 consecutive days.
+WFS000519 (Active) has worked for 7 consecutive days.
+WFS000519 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000519 (Active) has worked for 7 consecutive days.
+WFS000519 (Active) has worked for 7 consecutive days.
+WFS000519 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000519 (Active) has worked for 7 consecutive days.
+WFS000519 (Active) has worked for 7 consecutive days.
+WFS000519 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000519 (Active) has worked for 7 consecutive days.
+WFS000519 (Active) has worked for 7 consecutive days.
+WFS000519 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000519 (Active) has worked for 7 consecutive days.
+WFS000519 (Active) has worked for 7 consecutive days.
+WFS000519 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000519 (Active) has worked for 7 consecutive days.
+WFS000519 (Active) has worked for 7 consecutive days.
+WFS000519 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000519 (Active) has worked for 7 consecutive days.
+WFS000521 (Active) has worked for 7 consecutive days.
+WFS000521 (Active) has worked for 7 consecutive days.
+WFS000521 (Active) has worked for 7 consecutive days.
+WFS000521 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000521 (Active) has worked for 7 consecutive days.
+WFS000521 (Active) has worked for 7 consecutive days.
+WFS000521 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000521 (Active) has worked for 7 consecutive days.
+WFS000521 (Active) has worked for 7 consecutive days.
+WFS000521 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000521 (Active) has worked for 7 consecutive days.
+WFS000521 (Active) has worked for 7 consecutive days.
+WFS000521 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000521 (Active) has worked for 7 consecutive days.
+WFS000522 (Active) has worked for 7 consecutive days.
+WFS000522 (Active) has worked for 7 consecutive days.
+WFS000522 (Active) has worked for 7 consecutive days.
+WFS000522 (Active) has worked for 7 consecutive days.
+WFS000522 (Active) has worked for 7 consecutive days.
+WFS000522 (Active) has worked for 7 consecutive days.
+WFS000522 (Active) has worked for 7 consecutive days.
+WFS000522 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000522 (Active) has worked for 7 consecutive days.
+WFS000522 (Active) has worked for 7 consecutive days.
+WFS000522 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000522 (Active) has worked for 7 consecutive days.
+WFS000522 (Active) has worked for 7 consecutive days.
+WFS000522 (Active) has worked for 7 consecutive days.
+WFS000522 (Active) has worked for 7 consecutive days.
+WFS000522 (Active) has worked for 7 consecutive days.
+WFS000522 (Active) has worked for 7 consecutive days.
+WFS000522 (Active) has worked for more than 14 hours in a single shift.
+WFS000522 (Active) has worked for 7 consecutive days.
+WFS000522 (Active) has worked for 7 consecutive days.
+WFS000522 (Active) has worked for 7 consecutive days.
+WFS000523 (Active) has worked for 7 consecutive days.
+WFS000523 (Active) has worked for 7 consecutive days.
+WFS000523 (Active) has worked for 7 consecutive days.
+WFS000523 (Active) has worked for 7 consecutive days.
+WFS000523 (Active) has worked for 7 consecutive days.
+WFS000523 (Active) has worked for 7 consecutive days.
+WFS000523 (Active) has worked for 7 consecutive days.
+WFS000523 (Active) has worked for 7 consecutive days.
+WFS000523 (Active) has worked for 7 consecutive days.
+WFS000523 (Active) has worked for 7 consecutive days.
+WFS000523 (Active) has worked for 7 consecutive days.
+WFS000523 (Active) has worked for 7 consecutive days.
+WFS000523 (Active) has worked for more than 14 hours in a single shift.
+WFS000523 (Active) has worked for 7 consecutive days.
+WFS000523 (Active) has worked for 7 consecutive days.
+WFS000523 (Active) has worked for 7 consecutive days.
+WFS000523 (Active) has worked for 7 consecutive days.
+WFS000523 (Active) has worked for 7 consecutive days.
+WFS000523 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000523 (Active) has worked for 7 consecutive days.
+WFS000528 (Active) has worked for 7 consecutive days.
+WFS000528 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000528 (Active) has worked for 7 consecutive days.
+WFS000528 (Active) has worked for 7 consecutive days.
+WFS000528 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000528 (Active) has worked for 7 consecutive days.
+WFS000528 (Active) has worked for 7 consecutive days.
+WFS000528 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000528 (Active) has worked for 7 consecutive days.
+WFS000528 (Active) has worked for 7 consecutive days.
+WFS000528 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000528 (Active) has worked for 7 consecutive days.
+WFS000528 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000528 (Active) has worked for 7 consecutive days.
+WFS000528 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000528 (Active) has worked for 7 consecutive days.
+WFS000528 (Active) has worked for 7 consecutive days.
+WFS000528 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000530 (Active) has worked for 7 consecutive days.
+WFS000530 (Active) has worked for 7 consecutive days.
+WFS000530 (Active) has worked for 7 consecutive days.
+WFS000530 (Active) has worked for 7 consecutive days.
+WFS000530 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000530 (Active) has worked for 7 consecutive days.
+WFS000530 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000530 (Active) has worked for 7 consecutive days.
+WFS000530 (Active) has worked for 7 consecutive days.
+WFS000530 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000530 (Active) has worked for 7 consecutive days.
+WFS000530 (Active) has worked for 7 consecutive days.
+WFS000530 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000536 (Active) has worked for 7 consecutive days.
+WFS000536 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000536 (Active) has worked for 7 consecutive days.
+WFS000536 (Active) has worked for 7 consecutive days.
+WFS000536 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000536 (Active) has worked for 7 consecutive days.
+WFS000536 (Active) has worked for 7 consecutive days.
+WFS000536 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000536 (Active) has worked for 7 consecutive days.
+WFS000536 (Active) has worked for 7 consecutive days.
+WFS000536 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000536 (Active) has worked for 7 consecutive days.
+WFS000536 (Active) has worked for 7 consecutive days.
+WFS000536 (Active) has worked for 7 consecutive days.
+WFS000536 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000536 (Active) has worked for 7 consecutive days.
+WFS000536 (Active) has worked for 7 consecutive days.
+WFS000536 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000538 (Active) has worked for 7 consecutive days.
+WFS000538 (Active) has worked for 7 consecutive days.
+WFS000538 (Active) has worked for 7 consecutive days.
+WFS000538 (Active) has worked for 7 consecutive days.
+WFS000538 (Active) has worked for 7 consecutive days.
+WFS000538 (Active) has worked for more than 14 hours in a single shift.
+WFS000538 (Active) has worked for 7 consecutive days.
+WFS000538 (Active) has worked for more than 14 hours in a single shift.
+WFS000538 (Active) has worked for 7 consecutive days.
+WFS000541 (Active) has worked for 7 consecutive days.
+WFS000541 (Active) has worked for 7 consecutive days.
+WFS000541 (Active) has worked for 7 consecutive days.
+WFS000541 (Active) has worked for 7 consecutive days.
+WFS000541 (Active) has worked for 7 consecutive days.
+WFS000541 (Active) has worked for 7 consecutive days.
+WFS000541 (Active) has worked for 7 consecutive days.
+WFS000541 (Active) has worked for 7 consecutive days.
+WFS000541 (Active) has worked for more than 14 hours in a single shift.
+WFS000541 (Active) has worked for 7 consecutive days.
+WFS000541 (Active) has worked for 7 consecutive days.
+WFS000541 (Active) has worked for more than 14 hours in a single shift.
+WFS000541 (Active) has worked for 7 consecutive days.
+WFS000541 (Active) has worked for 7 consecutive days.
+WFS000541 (Active) has worked for more than 14 hours in a single shift.
+WFS000541 (Active) has worked for 7 consecutive days.
+WFS000541 (Active) has worked for 7 consecutive days.
+WFS000541 (Active) has worked for more than 14 hours in a single shift.
+WFS000541 (Active) has worked for 7 consecutive days.
+WFS000546 (Active) has worked for 7 consecutive days.
+WFS000546 (Active) has worked for 7 consecutive days.
+WFS000546 (Active) has worked for 7 consecutive days.
+WFS000546 (Active) has worked for 7 consecutive days.
+WFS000546 (Active) has worked for 7 consecutive days.
+WFS000546 (Active) has worked for 7 consecutive days.
+WFS000546 (Active) has worked for 7 consecutive days.
+WFS000546 (Active) has worked for 7 consecutive days.
+WFS000546 (Active) has worked for more than 14 hours in a single shift.
+WFS000546 (Active) has worked for 7 consecutive days.
+WFS000546 (Active) has worked for 7 consecutive days.
+WFS000546 (Active) has worked for 7 consecutive days.
+WFS000546 (Active) has worked for 7 consecutive days.
+WFS000548 (Active) has worked for 7 consecutive days.
+WFS000548 (Active) has worked for 7 consecutive days.
+WFS000548 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000548 (Active) has worked for 7 consecutive days.
+WFS000548 (Active) has worked for 7 consecutive days.
+WFS000548 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000548 (Active) has worked for 7 consecutive days.
+WFS000548 (Active) has worked for 7 consecutive days.
+WFS000548 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000548 (Active) has worked for 7 consecutive days.
+WFS000548 (Active) has worked for 7 consecutive days.
+WFS000548 (Active) has worked for 7 consecutive days.
+WFS000548 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000548 (Active) has worked for 7 consecutive days.
+WFS000548 (Active) has worked for 7 consecutive days.
+WFS000548 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000548 (Active) has worked for 7 consecutive days.
+WFS000548 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000548 (Active) has worked for 7 consecutive days.
+WFS000548 (Active) has worked for 7 consecutive days.
+WFS000548 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000549 (Active) has worked for 7 consecutive days.
+WFS000549 (Active) has worked for 7 consecutive days.
+WFS000549 (Active) has worked for 7 consecutive days.
+WFS000549 (Active) has worked for 7 consecutive days.
+WFS000549 (Active) has worked for 7 consecutive days.
+WFS000549 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000549 (Active) has worked for 7 consecutive days.
+WFS000549 (Active) has worked for 7 consecutive days.
+WFS000549 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000549 (Active) has worked for 7 consecutive days.
+WFS000549 (Active) has worked for 7 consecutive days.
+WFS000549 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000549 (Active) has worked for 7 consecutive days.
+WFS000549 (Active) has worked for 7 consecutive days.
+WFS000549 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000549 (Active) has worked for 7 consecutive days.
+WFS000549 (Active) has worked for 7 consecutive days.
+WFS000549 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000549 (Active) has worked for 7 consecutive days.
+WFS000550 (Active) has worked for 7 consecutive days.
+WFS000550 (Active) has worked for 7 consecutive days.
+WFS000550 (Active) has worked for 7 consecutive days.
+WFS000550 (Active) has worked for 7 consecutive days.
+WFS000550 (Active) has worked for 7 consecutive days.
+WFS000550 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000550 (Active) has worked for 7 consecutive days.
+WFS000550 (Active) has worked for 7 consecutive days.
+WFS000550 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000550 (Active) has worked for 7 consecutive days.
+WFS000550 (Active) has worked for 7 consecutive days.
+WFS000550 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000550 (Active) has worked for 7 consecutive days.
+WFS000550 (Active) has worked for 7 consecutive days.
+WFS000550 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000550 (Active) has worked for 7 consecutive days.
+WFS000550 (Active) has worked for 7 consecutive days.
+WFS000550 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000550 (Active) has worked for 7 consecutive days.
+WFS000550 (Active) has worked for 7 consecutive days.
+WFS000550 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000550 (Active) has worked for 7 consecutive days.
+WFS000550 (Active) has worked for 7 consecutive days.
+WFS000550 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000550 (Active) has worked for 7 consecutive days.
+WFS000550 (Active) has worked for 7 consecutive days.
+WFS000550 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000550 (Active) has worked for 7 consecutive days.
+WFS000550 (Active) has worked for 7 consecutive days.
+WFS000550 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000550 (Active) has worked for 7 consecutive days.
+WFS000551 (Active) has worked for 7 consecutive days.
+WFS000551 (Active) has worked for 7 consecutive days.
+WFS000551 (Active) has worked for 7 consecutive days.
+WFS000551 (Active) has worked for 7 consecutive days.
+WFS000551 (Active) has worked for 7 consecutive days.
+WFS000551 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000551 (Active) has worked for 7 consecutive days.
+WFS000551 (Active) has worked for 7 consecutive days.
+WFS000551 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000551 (Active) has worked for 7 consecutive days.
+WFS000551 (Active) has worked for 7 consecutive days.
+WFS000551 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000551 (Active) has worked for 7 consecutive days.
+WFS000551 (Active) has worked for 7 consecutive days.
+WFS000551 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000551 (Active) has worked for 7 consecutive days.
+WFS000551 (Active) has worked for 7 consecutive days.
+WFS000551 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000551 (Active) has worked for 7 consecutive days.
+WFS000551 (Active) has worked for 7 consecutive days.
+WFS000551 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000551 (Active) has worked for 7 consecutive days.
+WFS000551 (Active) has worked for 7 consecutive days.
+WFS000551 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000551 (Active) has worked for 7 consecutive days.
+WFS000551 (Active) has worked for 7 consecutive days.
+WFS000551 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000552 (Active) has worked for 7 consecutive days.
+WFS000552 (Active) has worked for 7 consecutive days.
+WFS000552 (Active) has worked for 7 consecutive days.
+WFS000552 (Active) has worked for 7 consecutive days.
+WFS000552 (Active) has worked for 7 consecutive days.
+WFS000552 (Active) has worked for 7 consecutive days.
+WFS000552 (Active) has worked for 7 consecutive days.
+WFS000552 (Active) has worked for 7 consecutive days.
+WFS000552 (Active) has worked for 7 consecutive days.
+WFS000552 (Active) has worked for 7 consecutive days.
+WFS000552 (Active) has worked for 7 consecutive days.
+WFS000552 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000552 (Active) has worked for 7 consecutive days.
+WFS000552 (Active) has worked for 7 consecutive days.
+WFS000552 (Active) has worked for 7 consecutive days.
+WFS000552 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000552 (Active) has worked for 7 consecutive days.
+WFS000552 (Active) has worked for 7 consecutive days.
+WFS000552 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000552 (Active) has worked for 7 consecutive days.
+WFS000555 (Active) has worked for 7 consecutive days.
+WFS000555 (Active) has worked for 7 consecutive days.
+WFS000555 (Active) has worked for 7 consecutive days.
+WFS000555 (Active) has worked for 7 consecutive days.
+WFS000555 (Active) has worked for 7 consecutive days.
+WFS000555 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000555 (Active) has worked for 7 consecutive days.
+WFS000555 (Active) has worked for 7 consecutive days.
+WFS000555 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000555 (Active) has worked for 7 consecutive days.
+WFS000555 (Active) has worked for 7 consecutive days.
+WFS000555 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000555 (Active) has worked for 7 consecutive days.
+WFS000555 (Active) has worked for 7 consecutive days.
+WFS000555 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000555 (Active) has worked for 7 consecutive days.
+WFS000555 (Active) has worked for 7 consecutive days.
+WFS000555 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000555 (Active) has worked for 7 consecutive days.
+WFS000555 (Active) has worked for 7 consecutive days.
+WFS000555 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000555 (Active) has worked for 7 consecutive days.
+WFS000555 (Active) has worked for 7 consecutive days.
+WFS000555 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000555 (Active) has worked for 7 consecutive days.
+WFS000555 (Active) has worked for 7 consecutive days.
+WFS000555 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000555 (Active) has worked for 7 consecutive days.
+WFS000556 (Active) has worked for 7 consecutive days.
+WFS000556 (Active) has worked for 7 consecutive days.
+WFS000556 (Active) has worked for 7 consecutive days.
+WFS000556 (Active) has worked for 7 consecutive days.
+WFS000556 (Active) has worked for 7 consecutive days.
+WFS000556 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000556 (Active) has worked for 7 consecutive days.
+WFS000556 (Active) has worked for 7 consecutive days.
+WFS000556 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000556 (Active) has worked for 7 consecutive days.
+WFS000556 (Active) has worked for 7 consecutive days.
+WFS000556 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000556 (Active) has worked for 7 consecutive days.
+WFS000556 (Active) has worked for 7 consecutive days.
+WFS000556 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000556 (Active) has worked for 7 consecutive days.
+WFS000556 (Active) has worked for 7 consecutive days.
+WFS000556 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000556 (Active) has worked for 7 consecutive days.
+WFS000556 (Active) has worked for 7 consecutive days.
+WFS000556 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000556 (Active) has worked for 7 consecutive days.
+WFS000556 (Active) has worked for 7 consecutive days.
+WFS000556 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000556 (Active) has worked for 7 consecutive days.
+WFS000557 (Active) has worked for 7 consecutive days.
+WFS000557 (Active) has worked for 7 consecutive days.
+WFS000557 (Active) has worked for 7 consecutive days.
+WFS000557 (Active) has worked for 7 consecutive days.
+WFS000557 (Active) has worked for 7 consecutive days.
+WFS000557 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000557 (Active) has worked for 7 consecutive days.
+WFS000557 (Active) has worked for 7 consecutive days.
+WFS000557 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000557 (Active) has worked for 7 consecutive days.
+WFS000557 (Active) has worked for 7 consecutive days.
+WFS000557 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000557 (Active) has worked for 7 consecutive days.
+WFS000557 (Active) has worked for 7 consecutive days.
+WFS000557 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000557 (Active) has worked for 7 consecutive days.
+WFS000557 (Active) has worked for 7 consecutive days.
+WFS000557 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000557 (Active) has worked for 7 consecutive days.
+WFS000566 (Active) has worked for 7 consecutive days.
+WFS000566 (Active) has worked for 7 consecutive days.
+WFS000566 (Active) has worked for 7 consecutive days.
+WFS000566 (Active) has worked for 7 consecutive days.
+WFS000566 (Active) has worked for 7 consecutive days.
+WFS000569 (Active) has worked for 7 consecutive days.
+WFS000569 (Active) has worked for 7 consecutive days.
+WFS000569 (Active) has worked for 7 consecutive days.
+WFS000569 (Active) has worked for 7 consecutive days.
+WFS000569 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000569 (Active) has worked for 7 consecutive days.
+WFS000569 (Active) has worked for 7 consecutive days.
+WFS000569 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000569 (Active) has worked for 7 consecutive days.
+WFS000569 (Active) has worked for 7 consecutive days.
+WFS000569 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000569 (Active) has worked for 7 consecutive days.
+WFS000569 (Active) has worked for 7 consecutive days.
+WFS000569 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000569 (Active) has worked for 7 consecutive days.
+WFS000569 (Active) has worked for 7 consecutive days.
+WFS000569 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000569 (Active) has worked for 7 consecutive days.
+WFS000569 (Active) has worked for 7 consecutive days.
+WFS000569 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000569 (Active) has worked for 7 consecutive days.
+WFS000571 (Active) has worked for 7 consecutive days.
+WFS000571 (Active) has worked for 7 consecutive days.
+WFS000571 (Active) has worked for 7 consecutive days.
+WFS000571 (Active) has worked for 7 consecutive days.
+WFS000571 (Active) has worked for 7 consecutive days.
+WFS000571 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000571 (Active) has worked for 7 consecutive days.
+WFS000571 (Active) has worked for 7 consecutive days.
+WFS000571 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000571 (Active) has worked for 7 consecutive days.
+WFS000571 (Active) has worked for 7 consecutive days.
+WFS000571 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000571 (Active) has worked for 7 consecutive days.
+WFS000571 (Active) has worked for 7 consecutive days.
+WFS000571 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000571 (Active) has worked for 7 consecutive days.
+WFS000571 (Active) has worked for 7 consecutive days.
+WFS000571 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000571 (Active) has worked for 7 consecutive days.
+WFS000571 (Active) has worked for 7 consecutive days.
+WFS000571 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000571 (Active) has worked for 7 consecutive days.
+WFS000571 (Active) has worked for 7 consecutive days.
+WFS000571 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000571 (Active) has worked for 7 consecutive days.
+WFS000572 (Active) has worked for 7 consecutive days.
+WFS000572 (Active) has worked for 7 consecutive days.
+WFS000572 (Active) has worked for 7 consecutive days.
+WFS000572 (Active) has worked for 7 consecutive days.
+WFS000572 (Active) has worked for 7 consecutive days.
+WFS000572 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000572 (Active) has worked for 7 consecutive days.
+WFS000572 (Active) has worked for 7 consecutive days.
+WFS000572 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000572 (Active) has worked for 7 consecutive days.
+WFS000572 (Active) has worked for 7 consecutive days.
+WFS000572 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000572 (Active) has worked for 7 consecutive days.
+WFS000572 (Active) has worked for 7 consecutive days.
+WFS000572 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000572 (Active) has worked for 7 consecutive days.
+WFS000572 (Active) has worked for 7 consecutive days.
+WFS000572 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000572 (Active) has worked for 7 consecutive days.
+WFS000572 (Active) has worked for 7 consecutive days.
+WFS000572 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000572 (Active) has worked for 7 consecutive days.
+WFS000572 (Active) has worked for 7 consecutive days.
+WFS000572 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000572 (Active) has worked for 7 consecutive days.
+WFS000573 (Active) has worked for 7 consecutive days.
+WFS000573 (Active) has worked for 7 consecutive days.
+WFS000573 (Active) has worked for 7 consecutive days.
+WFS000573 (Active) has worked for 7 consecutive days.
+WFS000573 (Active) has worked for 7 consecutive days.
+WFS000573 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000573 (Active) has worked for 7 consecutive days.
+WFS000573 (Active) has worked for 7 consecutive days.
+WFS000573 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000573 (Active) has worked for 7 consecutive days.
+WFS000573 (Active) has worked for 7 consecutive days.
+WFS000573 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000573 (Active) has worked for 7 consecutive days.
+WFS000573 (Active) has worked for 7 consecutive days.
+WFS000573 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000574 (Active) has worked for 7 consecutive days.
+WFS000574 (Active) has worked for 7 consecutive days.
+WFS000574 (Active) has worked for 7 consecutive days.
+WFS000574 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000574 (Active) has worked for 7 consecutive days.
+WFS000574 (Active) has worked for 7 consecutive days.
+WFS000574 (Active) has worked for 7 consecutive days.
+WFS000574 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000574 (Active) has worked for 7 consecutive days.
+WFS000576 (Active) has worked for 7 consecutive days.
+WFS000576 (Active) has worked for 7 consecutive days.
+WFS000577 (Active) has worked for 7 consecutive days.
+WFS000577 (Active) has worked for 7 consecutive days.
+WFS000577 (Active) has worked for 7 consecutive days.
+WFS000577 (Active) has worked for 7 consecutive days.
+WFS000577 (Active) has worked for 7 consecutive days.
+WFS000577 (Active) has worked for 7 consecutive days.
+WFS000577 (Active) has worked for 7 consecutive days.
+WFS000577 (Active) has worked for 7 consecutive days.
+WFS000577 (Active) has worked for 7 consecutive days.
+WFS000577 (Active) has worked for more than 14 hours in a single shift.
+WFS000577 (Active) has worked for 7 consecutive days.
+WFS000577 (Active) has worked for 7 consecutive days.
+WFS000577 (Active) has worked for more than 14 hours in a single shift.
+WFS000577 (Active) has worked for 7 consecutive days.
+WFS000578 (Active) has worked for 7 consecutive days.
+WFS000578 (Active) has worked for 7 consecutive days.
+WFS000578 (Active) has worked for 7 consecutive days.
+WFS000578 (Active) has worked for 7 consecutive days.
+WFS000578 (Active) has worked for 7 consecutive days.
+WFS000578 (Active) has worked for 7 consecutive days.
+WFS000578 (Active) has worked for 7 consecutive days.
+WFS000578 (Active) has worked for 7 consecutive days.
+WFS000578 (Active) has worked for 7 consecutive days.
+WFS000578 (Active) has worked for 7 consecutive days.
+WFS000578 (Active) has worked for 7 consecutive days.
+WFS000579 (Active) has worked for 7 consecutive days.
+WFS000579 (Active) has worked for 7 consecutive days.
+WFS000579 (Active) has worked for 7 consecutive days.
+WFS000579 (Active) has worked for 7 consecutive days.
+WFS000579 (Active) has worked for 7 consecutive days.
+WFS000579 (Active) has worked for 7 consecutive days.
+WFS000579 (Active) has worked for 7 consecutive days.
+WFS000579 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000579 (Active) has worked for 7 consecutive days.
+WFS000579 (Active) has worked for 7 consecutive days.
+WFS000579 (Active) has worked for 7 consecutive days.
+WFS000579 (Active) has worked for 7 consecutive days.
+WFS000579 (Active) has worked for 7 consecutive days.
+WFS000579 (Active) has worked for 7 consecutive days.
+WFS000579 (Active) has worked for more than 14 hours in a single shift.
+WFS000579 (Active) has worked for 7 consecutive days.
+WFS000581 (Active) has worked for 7 consecutive days.
+WFS000581 (Active) has worked for 7 consecutive days.
+WFS000581 (Active) has worked for 7 consecutive days.
+WFS000581 (Active) has worked for 7 consecutive days.
+WFS000581 (Active) has worked for 7 consecutive days.
+WFS000581 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000581 (Active) has worked for 7 consecutive days.
+WFS000581 (Active) has worked for 7 consecutive days.
+WFS000581 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000581 (Active) has worked for 7 consecutive days.
+WFS000581 (Active) has worked for 7 consecutive days.
+WFS000581 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000581 (Active) has worked for 7 consecutive days.
+WFS000581 (Active) has worked for 7 consecutive days.
+WFS000581 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000581 (Active) has worked for 7 consecutive days.
+WFS000581 (Active) has worked for 7 consecutive days.
+WFS000581 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000581 (Active) has worked for 7 consecutive days.
+WFS000581 (Active) has worked for 7 consecutive days.
+WFS000581 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000581 (Active) has worked for 7 consecutive days.
+WFS000581 (Active) has worked for 7 consecutive days.
+WFS000581 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000581 (Active) has worked for 7 consecutive days.
+WFS000581 (Active) has worked for 7 consecutive days.
+WFS000581 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000582 (Active) has worked for 7 consecutive days.
+WFS000582 (Active) has worked for 7 consecutive days.
+WFS000582 (Active) has worked for 7 consecutive days.
+WFS000582 (Active) has worked for 7 consecutive days.
+WFS000582 (Active) has worked for 7 consecutive days.
+WFS000582 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000582 (Active) has worked for 7 consecutive days.
+WFS000582 (Active) has worked for 7 consecutive days.
+WFS000582 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000582 (Active) has worked for 7 consecutive days.
+WFS000582 (Active) has worked for 7 consecutive days.
+WFS000582 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000582 (Active) has worked for 7 consecutive days.
+WFS000582 (Active) has worked for 7 consecutive days.
+WFS000582 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000582 (Active) has worked for 7 consecutive days.
+WFS000582 (Active) has worked for 7 consecutive days.
+WFS000582 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000583 (Active) has worked for 7 consecutive days.
+WFS000583 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000583 (Active) has worked for 7 consecutive days.
+WFS000583 (Active) has worked for 7 consecutive days.
+WFS000583 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000583 (Active) has worked for 7 consecutive days.
+WFS000583 (Active) has worked for 7 consecutive days.
+WFS000583 (Active) has worked for 7 consecutive days.
+WFS000583 (Active) has worked for 7 consecutive days.
+WFS000583 (Active) has worked for 7 consecutive days.
+WFS000583 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000583 (Active) has worked for 7 consecutive days.
+WFS000583 (Active) has worked for 7 consecutive days.
+WFS000583 (Active) has worked for 7 consecutive days.
+WFS000584 (Active) has worked for 7 consecutive days.
+WFS000584 (Active) has worked for 7 consecutive days.
+WFS000584 (Active) has worked for 7 consecutive days.
+WFS000584 (Active) has worked for 7 consecutive days.
+WFS000584 (Active) has worked for 7 consecutive days.
+WFS000584 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000584 (Active) has worked for 7 consecutive days.
+WFS000584 (Active) has worked for 7 consecutive days.
+WFS000584 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000584 (Active) has worked for 7 consecutive days.
+WFS000584 (Active) has worked for 7 consecutive days.
+WFS000584 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000584 (Active) has worked for 7 consecutive days.
+WFS000584 (Active) has worked for 7 consecutive days.
+WFS000584 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000584 (Active) has worked for 7 consecutive days.
+WFS000584 (Active) has worked for 7 consecutive days.
+WFS000584 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000584 (Active) has worked for 7 consecutive days.
+WFS000584 (Active) has worked for 7 consecutive days.
+WFS000584 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000584 (Active) has worked for 7 consecutive days.
+WFS000584 (Active) has worked for 7 consecutive days.
+WFS000584 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000584 (Active) has worked for 7 consecutive days.
+WFS000585 (Active) has worked for 7 consecutive days.
+WFS000585 (Active) has worked for 7 consecutive days.
+WFS000585 (Active) has worked for 7 consecutive days.
+WFS000585 (Active) has worked for 7 consecutive days.
+WFS000585 (Active) has worked for 7 consecutive days.
+WFS000585 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000585 (Active) has worked for 7 consecutive days.
+WFS000585 (Active) has worked for 7 consecutive days.
+WFS000585 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000585 (Active) has worked for 7 consecutive days.
+WFS000585 (Active) has worked for 7 consecutive days.
+WFS000585 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000585 (Active) has worked for 7 consecutive days.
+WFS000585 (Active) has worked for 7 consecutive days.
+WFS000585 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000585 (Active) has worked for 7 consecutive days.
+WFS000585 (Active) has worked for 7 consecutive days.
+WFS000585 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000585 (Active) has worked for 7 consecutive days.
+WFS000585 (Active) has worked for 7 consecutive days.
+WFS000585 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000585 (Active) has worked for 7 consecutive days.
+WFS000585 (Active) has worked for 7 consecutive days.
+WFS000585 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000587 (Active) has worked for 7 consecutive days.
+WFS000587 (Active) has worked for 7 consecutive days.
+WFS000587 (Active) has worked for 7 consecutive days.
+WFS000587 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000587 (Active) has worked for 7 consecutive days.
+WFS000587 (Active) has worked for 7 consecutive days.
+WFS000587 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000587 (Active) has worked for 7 consecutive days.
+WFS000587 (Active) has worked for 7 consecutive days.
+WFS000587 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000587 (Active) has worked for 7 consecutive days.
+WFS000587 (Active) has worked for 7 consecutive days.
+WFS000587 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000587 (Active) has worked for 7 consecutive days.
+WFS000587 (Active) has worked for 7 consecutive days.
+WFS000587 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000587 (Active) has worked for 7 consecutive days.
+WFS000587 (Active) has worked for 7 consecutive days.
+WFS000587 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000587 (Active) has worked for 7 consecutive days.
+WFS000587 (Active) has worked for 7 consecutive days.
+WFS000587 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000587 (Active) has worked for 7 consecutive days.
+WFS000587 (Active) has worked for 7 consecutive days.
+WFS000587 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000587 (Active) has worked for 7 consecutive days.
+WFS000587 (Active) has worked for 7 consecutive days.
+WFS000587 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000587 (Active) has worked for 7 consecutive days.
+WFS000588 (Active) has worked for 7 consecutive days.
+WFS000588 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000588 (Active) has worked for 7 consecutive days.
+WFS000588 (Active) has worked for 7 consecutive days.
+WFS000588 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000588 (Active) has worked for 7 consecutive days.
+WFS000588 (Active) has worked for 7 consecutive days.
+WFS000588 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000588 (Active) has worked for 7 consecutive days.
+WFS000588 (Active) has worked for 7 consecutive days.
+WFS000588 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000588 (Active) has worked for 7 consecutive days.
+WFS000588 (Active) has worked for 7 consecutive days.
+WFS000588 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000588 (Active) has worked for 7 consecutive days.
+WFS000589 (Active) has worked for 7 consecutive days.
+WFS000589 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000589 (Active) has worked for 7 consecutive days.
+WFS000589 (Active) has worked for 7 consecutive days.
+WFS000589 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000589 (Active) has worked for 7 consecutive days.
+WFS000589 (Active) has worked for 7 consecutive days.
+WFS000589 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000589 (Active) has worked for 7 consecutive days.
+WFS000589 (Active) has worked for 7 consecutive days.
+WFS000589 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000589 (Active) has worked for 7 consecutive days.
+WFS000589 (Active) has worked for 7 consecutive days.
+WFS000589 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000589 (Active) has worked for 7 consecutive days.
+
+Process finished with exit code 0
